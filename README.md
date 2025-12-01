@@ -2,7 +2,33 @@
 
 Below are the descriptive statistics of the context snapshots and examples of the snapshots for review purposes. As the set of context snapshots will grow until the publication date and internal review board approval cannot be finalized until the set is complete, we will publicly release the full dataset, minus any precise phrases we are advised to exercise, in the month prior to publication.
 
-### Descriptive Statistics
+### Number of Questions (As of 2025-09-22)
+
+| **Category**            | **All Questions** | **Active Questions** | **Resolved Questions** |
+|-------------------------|-------------------|-----------------------|-------------------------|
+| **Total**               | 9,388             | 6,050                 | 3,338                   |
+| **Politics**            | 4,140             | 4,029                 | 111                     |
+| **Sports**              | 3,325             | 766                   | 2,559                   |
+| **Entertainment**       | 682               | 317                   | 365                     |
+| **Science & Technology**| 347               | 305                   | 42                      |
+| **Finance**             | 311               | 219                   | 92                      |
+| **Economics**           | 194               | 139                   | 55                      |
+| **Climate & Weather**   | 170               | 113                   | 57                      |
+| **Health**              | 51                | 49                    | 2                       |
+| **Other**               | 168               | 113                   | 55                      |
+
+
+### Number of Context Snapshots (As of 2025-09-22)
+
+| **Metric**                          | **Bing Snapshots** | **RAG Snapshots** |
+|-------------------------------------|---------------------|-------------------|
+| Backtestable Snapshots              | 4,912               | 26,388            |
+| **Resolved Questions with Snapshots** | 1,435               | 2,072             |
+| **Resolved Events with Snapshots**    | 609                 | 785               |
+| Mean Count Per Event Per Date       | 4.08                | 5.11              |
+| Average Length in Characters        | 2427.02             | 2566.88           |
+
+
 
 ### Sample Context Snapshots
 
